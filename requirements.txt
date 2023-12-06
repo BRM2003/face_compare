@@ -1,6 +1,7 @@
 asgiref==3.7.2
 blinker==1.7.0
 click==8.1.7
+cmake==3.27.9
 Django==4.2.4
 djangorestframework==3.14.0
 dlib==19.24.2
